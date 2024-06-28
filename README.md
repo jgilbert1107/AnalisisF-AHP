@@ -1,0 +1,1 @@
+Ini perhitungan dalam bentuk file Microsoft Excel yang dikompres ke file zip atau rar karena menganalisis atau membandingkan Data Pakar Pertama dengan Data Pakar Kedua menggunakan Metode Analytical Hierarchy Process (AHP) dan membandingkan dengan Metode Fuzzy-Analytical Hierarchy Process (F-AHP).
